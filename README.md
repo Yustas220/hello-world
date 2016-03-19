@@ -8,3 +8,7 @@ De momento solo apuntare algunos comandos:
 -Para guardar los archivos del repositorio local en el repositorio en línea:
 
 	git push origin master
+
+-Eliminar un repositorio:
+	cd carpeta/
+	rm -rf .git
